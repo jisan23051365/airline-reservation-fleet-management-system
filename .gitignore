@@ -53,3 +53,9 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Application binary
+airline_system
+
+# Runtime data files (generated at runtime)
+data/*.dat
